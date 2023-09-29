@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+}
+
+.A1 {
+    background-color: #8dce53;
+}
+
+.topcloud1 {
+    margin-left: 953px;
+    margin-top: 20px;
+}
+
+.h11 {
+    margin: 50px auto 2.5rem auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.6875rem;
+    color: #2c786c;
+    margin-left: 400px;
+}
+
+.h22 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    margin-left: 580px;
+}
+
+.bottomcloud1 {
+    margin-left: 245px;
+    ;
+    position: absolute;
+}
+
+.mountain1 {
+    margin-left: 440px;
+}
+
+.myimg {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 665px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+.h33 {
+    position: absolute;
+    color: #2c786c;
+    margin-left: 720px;
+    margin-top: 280px;
+    font-size: 30px;
+}
+
+.h44 {
+    position: absolute;
+    color: ;
+    margin-left: 550px;
+    margin-top: 320px;
+    width: 500px;
+    font-size: 26px;
+}
+
+.h55 {
+    position: absolute;
+    color: #2c786c;
+    margin-left: 660px;
+    margin-top: 620px;
+    font-size: 34px;
+}
+
+.h66 {
+    position: absolute;
+    color: ;
+    margin-left: 374px;
+    margin-top: 700px;
+    width: 500px;
+    font-size: 26px;
+}
+
+.h77 {
+    margin-top: 703px;
+    margin-left: 913px;
+    width: 190px;
+}
+
+.h771 {
+    color: #11999E;
+}
+
+.h88 {
+    position: absolute;
+    color: ;
+    margin-left: 374px;
+    margin-top: 100px;
+    width: 500px;
+    font-size: 26px;
+}
+
+.h881 {
+    color: #11999E;
+}
+
+.h99 {
+    margin-top: 100px;
+    margin-left: 913px;
+    width: 180px;
+}
+
+.h101 {
+    width: 190px;
+    margin-left: 352px;
+    margin-top: 100px;
+}
+
+.h102 {
+    position: absolute;
+    color: ;
+    margin-left: 600px;
+    margin-top: -201px;
+    width: 500px;
+    font-size: 26px;
+}
+
+.h102A {
+    color: #11999E
+}
+
+.h103A {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #2c786c;
+    font-weight: normal;
+    margin-left: 635px;
+    margin-top: 102px;
+}
+
+.h103B {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 497px;
+}
+
+.h103C {
+    margin-left: 523px;
+    font-size: 22px;
+}
+
+.button {
+    position: absolute;
+    color: #3a6f0c;
+    font-family: "Robot", sans-serif;
+    font-size: 18px;
+    background-color: #8dce53;
+    width: 70px;
+    padding: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 707px;
+    margin-top: 0px;
+    text-decoration: none;
+}
+
+.A2 {
+    background-color: #66BFBF;
+    height: 175px;
+    width: 1500px;
+    margin-top: 100px;
+}
+
+.h104A {
+    position: absolute;
+    margin-left: 545px;
+    margin-top: 43px;
+    font-size: 26px;
+    color: #11999E;
+    font-family: 'Satisfy', cursive;
+}
+
+.h104B {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 43px;
+    font-size: 26px;
+    color: #11999E;
+    font-family: 'Satisfy', cursive;
+}
+
+.h104C {
+    position: absolute;
+    margin-left: 867px;
+    margin-top: 46px;
+    font-size: 24px;
+    color: #11999E;
+    font-family: 'Satisfy', cursive;
+}
+
+.h104D {
+    position: absolute;
+    color: #fff;
+    margin-left: 546px;
+    margin-top: 95px;
+}
